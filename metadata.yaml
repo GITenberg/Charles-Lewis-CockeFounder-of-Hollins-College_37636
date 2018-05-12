@@ -1,0 +1,26 @@
+_repo: Charles-Lewis-CockeFounder-of-Hollins-College_37636
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Smith, William Robert Lee
+    gutenberg_agent_id: '38967'
+    url: http://www.gutenberg.org/2009/agents/38967
+description: ''
+gutenberg_issued: '2011-10-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37636'
+  lccn: '21006134'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'LD'
+- !lcsh 'Hollins College'
+- !lcsh 'Cocke, Charles Lewis, 1820-1901'
+title: Charles Lewis Cocke, Founder of Hollins College
+url: http://www.gutenberg.org/ebooks/37636
